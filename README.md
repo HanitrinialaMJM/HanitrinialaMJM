@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-<!--
+- Hi, I'm HanitrinialaMJM. I am a student from Sayna. It's digitals jobs with a family spirit and game way.
+- I'm interested in code but I am not developer, sorry !
+- I'm currently learning all things about development and specificially how to learn it.
+- I'm looking to collaborate on many projects to see all the methodely development in the world, good luck for me!
+- How to reach me : mahanitriniala@gmail.com
+
+- More about SAYNA : https://www.sayna.io/
+
+--> To the pleasure of exchanging and/or collaborating together <--
+
 **HanitrinialaMJM/HanitrinialaMJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
